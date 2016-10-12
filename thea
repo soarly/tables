@@ -1,0 +1,156 @@
+theatab1.css
+Details
+Activity
+theatab1.css
+Sharing Info
+A
+General Info
+Type
+Style Sheet
+Size
+2 KB (2,200 bytes)
+Storage used
+2 KB (2,200 bytes)
+Location
+TABLES
+Owner
+me
+Modified
+Aug 31, 2016 by me
+Opened
+Aug 31, 2016 by me
+Created
+Aug 31, 2016 with Google Drive Web
+Description
+Add a description
+Download permissions
+Viewers can download
+Changed to list view. 
+
+<style type="text/CSS">
+
+.imsoweird {
+text-align:center;
+padding:5px;
+opacity: 1;
+width:511px;
+border-bottom:4px #81969e solid;
+}
+
+.theatab1image {
+background: url(http://i1110.photobucket.com/albums/h448/soarly/thea.png);
+background-repeat:no-repeat;
+background-position:center;
+height:573px;
+width:500px;
+opacity: 1;
+border:10px #fff solid;
+  outline:1px #1f1c1f solid;
+}
+
+
+
+.theatab1text {
+opacity: 0;
+background-color: #fff;
+transition:0.9s;
+height:400px;
+overflow:auto;
+color: #656c64;
+font-family:garamond;
+font-size:11px;
+text-align:justify;
+word-spacing:3px;
+letter-spacing:1.5px;
+line-height:10px;
+text-align:justify;
+line-height:12px;
+margin-left:87px;
+  margin-top:-238px;
+  padding:10px;
+width:310px;
+border-radius:0px;
+  float:left;
+}
+
+
+
+.theatab1quote {
+    opacity:1;
+font-family:georgia;
+    font-size:8px;
+    font-style:italc;
+  text-transform:upercase;
+    color:#1f1c1f;
+    letter-spacing:4px;
+    text-shadow: 0px 0px 0px #000;
+    line-height:14px;
+  float:left;
+  width:470px;
+  background-color:#fff;
+    transition:0.7s;
+  text-align:center;
+  padding:15px;
+  margin-top:255px;
+}
+
+.theatab1image:hover .theatab1quote {
+  opacity:0;
+      transition:0.7s;
+}
+
+
+.theatab1secondimage {
+opacity: 0;
+width:500px;
+height:573px;
+transition:1.4s;
+background: url(http://i1110.photobucket.com/albums/h448/soarly/theagrey.png);
+background-repeat:no-repeat;
+background-position:center;
+}
+
+.theatab1image:hover .theatab1text {
+background-color: #fff;
+opacity:0.7;
+padding:10px;
+transition:0.9s;
+height:400px;
+overflow:auto;
+color: #656c64;
+font-family:garamond;
+font-size:11px;
+text-align:justify;
+word-spacing:3px;
+letter-spacing:1.5px;
+line-height:10px;
+text-align:justify;
+line-height:12px;
+width:310px;
+border-radius: 0px;
+
+}
+.theatab1image:hover .theatab1secondimage {
+opacity:1;
+width:500px;
+transition:1s;
+color: #a19896;
+font-size:10px;
+text-align:justify;
+word-spacing:2px;
+letter-spacing:1px;
+line-height:10px;
+line-height:12px;
+height:573px;
+text-align:justify;
+border-radius:30px;
+ 
+}
+
+.theatab1speaktext {
+  font-family:garamond;font-size:16px;color:#7894ca;font-style:italic;letter-spacing:2px;font-weight:normal;text-align:left; text-shadow: 0px 0px 20px #fff;
+}
+</style>
+theatab1.css
+Open with
+Displaying sinclair.css.
