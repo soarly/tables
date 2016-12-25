@@ -1,0 +1,69 @@
+<style type="text/CSS">
+
+.imsoweird {
+text-align:center;
+padding:5px;
+opacity: 1;
+height:15px;
+width:511px;
+border-bottom:4px #81969e solid;
+}
+
+.c1text {
+align:center;
+background: #000 url(http://i1110.photobucket.com/albums/h448/soarly/RJGIFTABLELOLOLYAY.gif);
+border: 5px solid #2a2726;
+background-color:#5e6f62;
+padding:10px;
+border-radius:20px;
+width:450px;
+height:300px;
+opacity: 1;
+}
+.ptext {
+align:center;
+background-color: #34302f;
+padding:10px;
+opacity: 0;
+width:430px;
+transition:0.6s;
+height:279px;
+overflow:auto;
+color: #a19896;
+font-family:georgia;
+font-size:10px;
+text-align:justify;
+word-spacing:2px;
+letter-spacing:1px;
+line-height:10px;
+text-align:justify;
+border-radius:14px;
+line-height:12px;
+height:279px;
+background-position: center;
+}
+.c1text:hover .ptext {
+align:center;
+background-color: #34302f;
+opacity:0.9;
+padding:10px;
+width:430px;
+transition:0.6s;
+height:279px;
+overflow:auto;
+color: #a19896;
+font-family:georgia;
+font-size:10px;
+text-align:justify;
+word-spacing:2px;
+letter-spacing:1px;
+line-height:10px;
+text-align:justify;
+border-radius:14px;
+line-height:12px;
+background-position: center;
+}
+.speaktext {
+  font-family:georgia;font-size:12px;color:#f3edeb;font-style:normal;letter-spacing:2px;font-weight:normal;text-align:left;font-variant:small-caps; text-shadow: 2px 2px 20px #f3edeb;
+}
+</style>
