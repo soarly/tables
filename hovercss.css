@@ -8,10 +8,10 @@ position: relative;
 a[title]:hover:after{
 content: attr(title);
 font-family:arial;
- font-size:7px;
-  letter-spacing:2px;
+ font-size:5px;
+  letter-spacing:1px;
 text-transform:uppercase;
-padding: 7px;
+padding: 4px;
 color: #eee;
 text-shadow: 1px 1px 1px #000;
   border:5px #eee solid;
