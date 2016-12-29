@@ -1,8 +1,7 @@
 a{
-color: #d6005e;
+color: na;
 }
 a:hover{
-color: #ff2283;
 position: relative;
 }
 a[title]:hover:after{
