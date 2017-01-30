@@ -105,10 +105,10 @@ font-family:garamond;
     letter-spacing:2px;
     text-shadow: 0px 0px 15px #000;
     line-height:15px;
-  float:center;
+  float:left;
     transition:0.7s;
   text-align:center;
-  margin-top:22px;
+  margin-top:5px;
 margin-left:78px;
 
 }
