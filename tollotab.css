@@ -18,9 +18,9 @@ border:3px #fff solid;
 
 .tollotabhover {
 opacity:0;
+height:509px;
 width:560px;
-  margin-top:-260px;
-  height:509px;
+margin-top:-270px;
       transition:1s;
   background-image:url('http://orig04.deviantart.net/c0a6/f/2017/200/1/4/tolloflter_by_redemptari-dbgw1u5.png');
   background-repeat:no-repeat;
