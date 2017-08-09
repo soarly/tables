@@ -1,0 +1,158 @@
+
+<style type="text/CSS">
+
+.blank {
+  
+}
+
+.ellietabimage {
+
+  background: url('http://i.imgur.com/4JKh7ym.jpg');
+background-repeat:no-repeat;
+   background-size:220%;
+background-position:  0px 00px;
+height:309px;
+width:600px;
+opacity: 1;
+border-top:50px #000 solid;
+  border-bottom:50px #000 solid;
+  border-left:3px #000 solid;
+   border-left:3px #000 solid;
+
+}
+
+.ellietabhover {
+opacity:0;
+  margin-top:-410px;
+height:309px;
+  width:600px;
+      transition:1s;
+background: url('http://i.imgur.com/4JKh7ym.jpg');
+background-repeat:no-repeat;
+   background-size:220%;
+background-position:  0px 00px;
+color: #a19896;
+text-align:justify;
+ 
+}
+
+.ellietabimage:hover .ellietabhover {
+  opacity:1;
+        transition:1s;
+}
+
+
+.ellietabtext {
+
+float:left;
+opacity: 0;
+background-color: #111;
+transition:0.9s;
+height:309px;
+    margin-top:-198px;
+width:570px;
+  padding:15px;
+overflow:auto;
+color: #656c64;
+font-family:garamond;
+font-size:11px;
+text-align:justify;
+word-spacing:3px;
+letter-spacing:1.5px;
+text-align:justify;
+line-height:12px;
+
+}
+
+.ellietabtitleimg {
+  opacity:1;
+      transition:0.7s;
+      background: url('http://i.imgur.com/4JKh7ym.jpg');
+  background-repeat:no-repeat;
+  background-position:center;
+  width:500px;
+  height:500px;
+  margin-top:-90px;
+  border-radius:300px;
+}
+
+.ellietabtitle {
+    opacity:1;
+font-family:garamond;
+    font-size:30px;
+    font-style:italic;
+  text-transform:uppercase;
+ color:#000;
+    letter-spacing:10px;
+    text-shdow: 2px 0px #000;
+    text-align:center;
+    line-height:19px;
+    transition:0.7s;
+  padding-top:240px;
+}
+
+.ellietabimage:hover .ellietabtitle {
+  opacity:0;
+      transition:0.7s;
+}
+
+.ellietabimage:hover .ellietabtitleimg {
+    opacity:0;
+      transition:0.7s;
+}
+
+
+.ellietabname {
+    opacity:0.8;
+font-family:arial;
+  width:500px;
+  border-top:1px solid #000;
+    font-size:8px;
+    font-style:itaic;
+  text-transform:uppercase;
+    color:#000;
+  float:left;
+    letter-spacing:17px;
+  font-weight:bold;
+    text-shaow: 1px 1px 1px #000;
+    line-height:25px;
+    transition:0.7s;
+  text-align:center;
+  margin-top:5px;
+  padding-left:8px;
+
+
+}
+
+.ellietabimage:hover .ellietabname {
+  opacity:0;
+      transition:0.7s;
+}
+
+
+.ellietabimage:hover .ellietabtext {
+background-color: #111;
+opacity:0.7;
+transition:0.9s;
+height:309px;
+    margin-top:-198px;
+width:570px;
+  padding:15px;
+overflow:auto;
+color: #656c64;
+font-family:garamond;
+font-size:11px;
+text-align:justify;
+word-spacing:3px;
+letter-spacing:1.5px;
+text-align:justify;
+line-height:12px;
+
+
+}
+
+
+.elliespeaking {
+  font-family:garamond;font-size:14px;color:#cb896b;font-style:italic;letter-spacing:2px;font-weight:normal;text-align:left; text-shadow: 0px 0px 10px #cb896b;
+}
+</style>
