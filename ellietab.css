@@ -16,8 +16,6 @@ width:600px;
 opacity: 1;
 border-top:50px #000 solid;
   border-bottom:50px #000 solid;
-  border-left:3px #000 solid;
-   border-left:3px #000 solid;
 
 }
 
@@ -48,7 +46,7 @@ float:left;
 opacity: 0;
 background-color: #111;
 transition:0.9s;
-height:309px;
+height:269px;
     margin-top:-198px;
 width:570px;
   padding:15px;
@@ -134,7 +132,7 @@ font-family:arial;
 background-color: #111;
 opacity:0.7;
 transition:0.9s;
-height:309px;
+height:269px;
     margin-top:-198px;
 width:570px;
   padding:15px;
