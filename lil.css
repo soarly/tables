@@ -1,0 +1,109 @@
+<style type="text/CSS">
+
+.soar {
+}
+
+.c1text {
+align:center;
+background: #1e1b18 url('https://orig00.deviantart.net/ceec/f/2018/034/e/1/secretagent9_commission_by_secretagent9-dc22nle.png');
+ background-position:-90px -400px;
+  background-size:170%;
+border: 3px solid #893228;
+background-color:#13100e;
+width:590px;
+  box-shadow:0px 0px 30px #272219;
+height:600px;
+opacity: 1;
+  transition:1s;
+  transition-delay:0.5s;
+}
+
+.c1header {
+text-align:left;
+  padding-left:35px;
+ padding-top:330px;
+  font-family:eb garamond;
+  text-transform:uppercase;
+  letter-spacing:4px;
+  text-shadow:0px 0px 20px #7f1e1e;
+  font-style:italic;
+  font-size:20px;
+color:#a3a2a8;
+opacity: 1;
+  transition:1s;
+  transition-delay:0.7s;
+}
+.c1quote {
+   width:200px;
+  margin-top:-3px;
+text-align:left;
+  margin-left:-327px;
+  font-family:georgia;
+  text-transform:lowercase;
+  font-style:italic;
+  letter-spacing:2px;
+border-left: 0px solid #2e232d;
+  padding-left:10px;
+  text-shadow:1px 1px 10px #000;
+  font-size:8px;
+color:#b2391e;
+opacity: 0.9;
+  transition:2s;
+  transition-delay:1s;
+}
+
+.ptext {
+    margin-top:-360px;
+background-color: #191c1f;
+padding:10px;
+height:470px;
+  width:305px;
+transition:0.6s;
+  margin-left:-220px;
+overflow:auto;
+color: #81767f;
+font-family:georgia;
+font-size:11.5px;
+text-align:justify;
+word-spacing:3px;
+letter-spacing:0.5px;
+line-height:13.5px;
+text-align:justify;
+line-height:auto;
+background-position: left;
+opacity: 0;
+    transition:1s;
+  transition-delay:0.2s;
+}
+.c1text:hover .c1quote {
+ opacity:0;
+  transition:1s;
+    transition-delay:0.7s;
+}
+.c1text:hover .c1header {
+ opacity:0;
+  transition:1s;
+  transition-delay:0.1s;
+}
+
+.c1text:hover .ptext {
+opacity:0.9;
+padding:10px;
+transition:0.6s;
+overflow:auto;
+font-family:georgia;
+font-size:11.5px;
+text-align:justify;
+word-spacing:3px;
+letter-spacing:0.5px;
+line-height:13.5px;
+text-align:justify;
+line-height:auto;
+background-position: left;
+  transition:1s;
+    transition-delay:1.2s;
+}
+.speaktext {
+  font-family:georgia;font-size:12px;color:#b42c1e;font-style:italic;letter-spacing:-0px;font-weight:normal;text-align:left;text-transform:loercase; text-shadow: 1px 1px 0px #000;
+}
+</style>
