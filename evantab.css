@@ -1,0 +1,127 @@
+<style type="text/CSS">
+
+.soar {
+}
+.c1overall
+{  transition:1s;
+  transition-delay:0.5s;
+width:600px;
+  height:500px;
+}
+
+.c1text {
+align:center;
+background: #000 url('https://cdn.discordapp.com/attachments/344346063072788482/504071550656446464/badasseva.png');
+ background-position: -100px;
+  background-size:1000px;
+  background-repeat:no-repeat;
+border: 3px solid #fff;
+  outline: 1px solid #000;
+background-color:#13100e;
+width:600px;
+height:500px;
+opacity: 1;
+  transition:1s;
+  transition-delay:0.5s;
+transition-timing-function: ease-in-out;
+}
+
+
+.c1header {
+text-align:left;
+  padding-left:25px;
+ padding-top:229px;
+  font-family:eb garamond;
+  text-transform:uppercase;
+  letter-spacing:-1px;
+  text-shadow:0px 0px 20px #c63a19;
+  font-size:45px;
+color:#ffe7a9;
+opacity: 1;
+  transition:1s;
+  transition-delay:0.7s;
+}
+.c1quote {
+   width:385px;
+  margin-top:-3px;
+text-align:left;
+  margin-left:-163px;
+  font-family:georgia;
+  text-transform:lowercase;
+  font-style:italic;
+  letter-spacing:2px;
+  padding-left:10px;
+  text-shadow:0px 0px 10px #000;
+  font-size:9px;
+color:#fff;
+opacity: 0.9;
+  transition:2s;
+  transition-delay:1s;
+}
+
+
+.ptext {
+    margin-top:-290px;
+background-color: #2c2821;
+padding:10px;
+height:450px;
+  width:250px;
+transition:0.6s;
+  margin-left:310px;
+overflow:auto;
+color: #cea363;
+font-family:georgia;
+font-size:9.5px;
+text-align:justify;
+word-spacing:3px;
+letter-spacing:0.5px;
+line-height:12px;
+background-position: left;
+opacity: 0;
+    transition:1s;
+  transition-delay:0.2s;
+}
+
+
+.c1overall:hover .c1text {
+  background: #000 url('https://cdn.discordapp.com/attachments/344346063072788482/504071550656446464/badasseva.png');
+    background-size:1000px;
+    background-position: -450px;;
+    background-repeat:no-repeat;
+    transition:1s;
+  transition-delay:0.5s;
+transition-timing-function: ease-in-out;
+  
+}
+
+.c1text:hover .c1quote {
+ opacity:0;
+  transition:1s;
+    transition-delay:0.7s;
+}
+.c1text:hover .c1header {
+ opacity:0;
+  transition:1s;
+  transition-delay:0.1s;
+}
+
+.c1text:hover .ptext {
+opacity:0.9;
+padding:10px;
+transition:0.6s;
+overflow:auto;
+color: #cea363;
+font-family:georgia;
+font-size:9.5px;
+text-align:justify;
+word-spacing:3px;
+letter-spacing:0.5px;
+line-height:12px;
+background-position: left;
+  transition:1s;
+    transition-delay:1.2s;
+}
+.speaktext {
+  font-family:georgia;font-size:12px;color:#ffa53b;font-style:italic;letter-spacing:-0px;font-weight:normal;text-align:left;text-shadow: 0px 0px 10px #ffa53b;
+}
+</style>
